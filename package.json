@@ -1,0 +1,24 @@
+{
+  "name": "business-cat-notebook",
+  "version": "1.0.0",
+  "description": "Personal notes taken during study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flameforge/Study.git"
+  },
+  "keywords": [
+    "notes",
+    "study"
+  ],
+  "author": "cat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flameforge/Study/issues"
+  },
+  "homepage": "https://github.com/Flameforge/Study#readme",
+  "devDependencies": {}
+}
